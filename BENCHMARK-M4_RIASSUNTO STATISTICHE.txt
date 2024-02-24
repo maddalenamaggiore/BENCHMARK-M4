@@ -1,0 +1,7 @@
+Analizzando i dati raccolti, emerge quanto segue:
+
+- L'Europa registra il maggior numero di casi di COVID-19, con una forte discrepanza tra i valori minimi e i massimi registrati nei contagi quotidiani, oltre al maggior numero di vaccinazioni eseguite; ciò evidenzia un approccio deciso verso la prevenzione sanitaria, attraverso compagne di sensibilizzazione e l'imposizione di obblighi specifici (come avvenuto in Italia).
+
+- L'Oceania, con un valore massimo giornaliero di quasi 4 volte inferiore rispetto all'Europa, si posiziona come continente con il minor numero di contagi e di vaccinazioni, suggerendo un atteggiamento prevalentemente cauto o poco interessato sul tema vaccini, forse per un mancato impatto psicologico legato al basso numero di contagi sul territorio.
+
+- Il Sud America, invece, occupa una posizione intermedia, con una distribuzione uniforme dei casi e una percentuale di vaccinazioni moderata.
